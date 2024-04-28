@@ -14,6 +14,7 @@ I'm a MSc. In Data Science and it's Applications candidate at the University of 
 
 -  Exploring Reinforcement Learning applications with [Gym](https://www.gymlibrary.dev/index.html)
 -  Performing network analysis on different types of Networks using Python and R.
+-  Analyzing basketball games and developing different ML models based on NBA data. 
 
 
 
