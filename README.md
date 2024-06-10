@@ -6,7 +6,7 @@
 
 # 📖 About Me
 
-I'm a MSc. In Data Science and it's Applications candidate at the University of Essex with a passion for numbers, gaming, music and sports.
+I'm a MSc. In Data Science and it's Applications candidate at the University of Essex with a passion for numbers, gaming, music, sports and sustainability.
 
 
 
