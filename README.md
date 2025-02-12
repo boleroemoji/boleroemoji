@@ -6,7 +6,7 @@
 
 # 📖 About Me
 
-I'm a Data Analyst with project Management Experience.  MSc. In Data Science and it's Applications graduate at the University of Essex with a passion for numbers, gaming, music, sports and sustainability.
+I'm a Data Analyst with project management experience.  MSc. In Data Science and it's Applications graduate at the University of Essex with a passion for numbers, gaming, music, sports and sustainability.
 
 
 
